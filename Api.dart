@@ -4,7 +4,7 @@ import 'dart:convert';
 
 
 
-const CHAVE_YOUTUBE = "AIzaSyB-UbHSx9mmu7afm7xU1tzIPpM8106ROfA";
+const CHAVE_YOUTUBE = "";
 const felipe_brx = "UC2TY96e7rufmyOoOtKUH1Ew";
 const ignorance_zero = "UCmjj41YfcaCpZIkU-oqVIIw";
 
